@@ -1,0 +1,2 @@
+# typeScript
+ estudos de typeScrypt
